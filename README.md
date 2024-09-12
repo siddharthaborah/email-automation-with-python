@@ -5,4 +5,4 @@ Simple Python script to read emails from an Excel file and send emails to them.
 - pandas
   
 ## Installation  
-`pip install pandas openpyxl`
+`pip install pandas`
