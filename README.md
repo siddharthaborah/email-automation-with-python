@@ -6,3 +6,6 @@ Simple Python script to read emails from an Excel file and send emails to them.
   
 ## Installation  
 `pip install pandas`
+
+## Save and Run the Script
+`python send_emails.py`
